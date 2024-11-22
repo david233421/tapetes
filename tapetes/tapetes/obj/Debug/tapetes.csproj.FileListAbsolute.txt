@@ -1,0 +1,21 @@
+C:\Users\CC2-CP03\Documents\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.csprojResolveAssemblyReference.cache
+C:\Users\CC2-CP03\Documents\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.MainForm.resources
+C:\Users\CC2-CP03\Documents\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.csproj.GenerateResource.Cache
+C:\Users\CC2-CP03\Documents\SharpDevelop Projects\tapetes\tapetes\bin\Debug\tapetes.exe
+C:\Users\CC2-CP03\Documents\SharpDevelop Projects\tapetes\tapetes\bin\Debug\tapetes.pdb
+C:\Users\CC2-CP03\Documents\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.exe
+C:\Users\CC2-CP03\Documents\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.pdb
+D:\c#\tapetes\tapetes\bin\Debug\tapetes.exe
+D:\c#\tapetes\tapetes\bin\Debug\tapetes.pdb
+D:\c#\tapetes\tapetes\obj\Debug\tapetes.csprojResolveAssemblyReference.cache
+D:\c#\tapetes\tapetes\obj\Debug\tapetes.MainForm.resources
+D:\c#\tapetes\tapetes\obj\Debug\tapetes.csproj.GenerateResource.Cache
+D:\c#\tapetes\tapetes\obj\Debug\tapetes.exe
+D:\c#\tapetes\tapetes\obj\Debug\tapetes.pdb
+E:\c#\tapetes\tapetes\obj\Debug\tapetes.csprojResolveAssemblyReference.cache
+E:\c#\tapetes\tapetes\obj\Debug\tapetes.MainForm.resources
+E:\c#\tapetes\tapetes\obj\Debug\tapetes.csproj.GenerateResource.Cache
+E:\c#\tapetes\tapetes\obj\Debug\tapetes.exe
+E:\c#\tapetes\tapetes\bin\Debug\tapetes.exe
+E:\c#\tapetes\tapetes\bin\Debug\tapetes.pdb
+E:\c#\tapetes\tapetes\obj\Debug\tapetes.pdb

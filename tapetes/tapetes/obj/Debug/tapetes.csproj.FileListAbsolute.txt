@@ -19,3 +19,10 @@ E:\c#\tapetes\tapetes\obj\Debug\tapetes.exe
 E:\c#\tapetes\tapetes\bin\Debug\tapetes.exe
 E:\c#\tapetes\tapetes\bin\Debug\tapetes.pdb
 E:\c#\tapetes\tapetes\obj\Debug\tapetes.pdb
+C:\Users\thinkpad core i5\git\tapetes\tapetes\bin\Debug\tapetes.exe
+C:\Users\thinkpad core i5\git\tapetes\tapetes\bin\Debug\tapetes.pdb
+C:\Users\thinkpad core i5\git\tapetes\tapetes\obj\Debug\tapetes.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad core i5\git\tapetes\tapetes\obj\Debug\tapetes.MainForm.resources
+C:\Users\thinkpad core i5\git\tapetes\tapetes\obj\Debug\tapetes.csproj.GenerateResource.Cache
+C:\Users\thinkpad core i5\git\tapetes\tapetes\obj\Debug\tapetes.exe
+C:\Users\thinkpad core i5\git\tapetes\tapetes\obj\Debug\tapetes.pdb

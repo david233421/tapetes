@@ -224,5 +224,9 @@ namespace tapetes
                 MessageBox.Show("Por favor, asegúrate de que todos los campos tengan valores numéricos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 		}
+		void MainFormLoad(object sender, EventArgs e)
+		{
+	
+		}
 	}
 }
